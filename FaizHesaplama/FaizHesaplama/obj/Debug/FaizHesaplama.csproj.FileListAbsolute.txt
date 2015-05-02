@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\bin\Debug\FaizHesaplama.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\bin\Debug\FaizHesaplama.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\bin\Debug\FaizHesaplama.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\obj\Debug\FaizHesaplama.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\obj\Debug\FaizHesaplama.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\obj\Debug\FaizHesaplama.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\obj\Debug\FaizHesaplama.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\obj\Debug\FaizHesaplama.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\FaizHesaplama\FaizHesaplama\obj\Debug\FaizHesaplama.pdb

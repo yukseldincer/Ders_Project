@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Islemler\Islemler\bin\Debug\Islemler.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Islemler\Islemler\bin\Debug\Islemler.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Islemler\Islemler\bin\Debug\Islemler.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Islemler\Islemler\obj\Debug\Islemler.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Islemler\Islemler\obj\Debug\Islemler.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Islemler\Islemler\obj\Debug\Islemler.pdb

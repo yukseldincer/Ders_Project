@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.pdb

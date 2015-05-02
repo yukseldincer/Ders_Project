@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\bin\Debug\tryCatchAndIf.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\bin\Debug\tryCatchAndIf.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\bin\Debug\tryCatchAndIf.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\obj\Debug\tryCatchAndIf.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\obj\Debug\tryCatchAndIf.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\obj\Debug\tryCatchAndIf.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\obj\Debug\tryCatchAndIf.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\obj\Debug\tryCatchAndIf.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tryCatchAndIf\tryCatchAndIf\obj\Debug\tryCatchAndIf.pdb

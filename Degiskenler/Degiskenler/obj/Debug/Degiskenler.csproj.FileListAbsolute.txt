@@ -1,0 +1,6 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.pdb

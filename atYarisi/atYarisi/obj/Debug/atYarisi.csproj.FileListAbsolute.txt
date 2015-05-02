@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\bin\Debug\atYarisi.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\bin\Debug\atYarisi.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\bin\Debug\atYarisi.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\obj\Debug\atYarisi.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\obj\Debug\atYarisi.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\obj\Debug\atYarisi.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\obj\Debug\atYarisi.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\obj\Debug\atYarisi.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\atYarisi\atYarisi\obj\Debug\atYarisi.pdb

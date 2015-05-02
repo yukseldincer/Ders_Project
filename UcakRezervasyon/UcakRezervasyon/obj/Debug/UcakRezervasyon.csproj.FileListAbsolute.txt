@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\bin\Debug\UcakRezervasyon.exe.config
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\bin\Debug\UcakRezervasyon.exe
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\bin\Debug\UcakRezervasyon.pdb
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\obj\Debug\UcakRezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\obj\Debug\UcakRezervasyon.Form1.resources
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\obj\Debug\UcakRezervasyon.Properties.Resources.resources
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\obj\Debug\UcakRezervasyon.csproj.GenerateResource.Cache
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\obj\Debug\UcakRezervasyon.exe
+C:\Users\yuksel.dincer\documents\visual studio 2013\Projects\UcakRezervasyon\UcakRezervasyon\obj\Debug\UcakRezervasyon.pdb

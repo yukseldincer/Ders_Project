@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\bin\Debug\kararYapilari.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\bin\Debug\kararYapilari.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\bin\Debug\kararYapilari.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\obj\Debug\kararYapilari.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\obj\Debug\kararYapilari.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\obj\Debug\kararYapilari.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\obj\Debug\kararYapilari.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\obj\Debug\kararYapilari.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\kararYapilari\kararYapilari\obj\Debug\kararYapilari.pdb

@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\bin\Debug\donguler_biletRezervasyon.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\bin\Debug\donguler_biletRezervasyon.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\bin\Debug\donguler_biletRezervasyon.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\obj\Debug\donguler_biletRezervasyon.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\obj\Debug\donguler_biletRezervasyon.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\obj\Debug\donguler_biletRezervasyon.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\obj\Debug\donguler_biletRezervasyon.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\obj\Debug\donguler_biletRezervasyon.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\donguler_biletRezervasyon\donguler_biletRezervasyon\obj\Debug\donguler_biletRezervasyon.pdb

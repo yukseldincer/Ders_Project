@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\bin\Debug\ZarSalla.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\bin\Debug\ZarSalla.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\bin\Debug\ZarSalla.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\obj\Debug\ZarSalla.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\obj\Debug\ZarSalla.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\obj\Debug\ZarSalla.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\obj\Debug\ZarSalla.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\obj\Debug\ZarSalla.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\ZarSalla\ZarSalla\obj\Debug\ZarSalla.pdb
