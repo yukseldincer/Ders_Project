@@ -219,6 +219,7 @@ namespace Donguler_Rezervasyon
 
             else if (cbKoltuk.SelectedItem == "Koridor")
             {
+
                 foreach (Control cnt in scAnaPanel.Panel2.Controls)
                 {
                     if (cnt is Button)

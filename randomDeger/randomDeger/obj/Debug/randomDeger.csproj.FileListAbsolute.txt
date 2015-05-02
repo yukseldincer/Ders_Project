@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\bin\Debug\randomDeger.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\bin\Debug\randomDeger.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\bin\Debug\randomDeger.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\obj\Debug\randomDeger.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\obj\Debug\randomDeger.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\obj\Debug\randomDeger.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\obj\Debug\randomDeger.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\obj\Debug\randomDeger.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\randomDeger\randomDeger\obj\Debug\randomDeger.csprojResolveAssemblyReference.cache

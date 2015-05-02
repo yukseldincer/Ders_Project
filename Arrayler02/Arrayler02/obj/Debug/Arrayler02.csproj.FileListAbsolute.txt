@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\bin\Debug\Arrayler02.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\bin\Debug\Arrayler02.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\bin\Debug\Arrayler02.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\obj\Debug\Arrayler02.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\obj\Debug\Arrayler02.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\obj\Debug\Arrayler02.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\obj\Debug\Arrayler02.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\obj\Debug\Arrayler02.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Arrayler02\Arrayler02\obj\Debug\Arrayler02.pdb
