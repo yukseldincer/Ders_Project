@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\bin\Debug\Metotlar2.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\bin\Debug\Metotlar2.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\bin\Debug\Metotlar2.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\obj\Debug\Metotlar2.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\obj\Debug\Metotlar2.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\obj\Debug\Metotlar2.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\obj\Debug\Metotlar2.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\obj\Debug\Metotlar2.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Metotlar2\Metotlar2\obj\Debug\Metotlar2.pdb

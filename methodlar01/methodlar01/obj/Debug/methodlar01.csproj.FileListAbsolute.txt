@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\bin\Debug\methodlar01.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\bin\Debug\methodlar01.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\bin\Debug\methodlar01.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\obj\Debug\methodlar01.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\obj\Debug\methodlar01.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\obj\Debug\methodlar01.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\obj\Debug\methodlar01.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\obj\Debug\methodlar01.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\methodlar01\methodlar01\obj\Debug\methodlar01.pdb

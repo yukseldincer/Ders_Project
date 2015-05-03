@@ -1,0 +1,8 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\bin\Debug\Methodlar02.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\bin\Debug\Methodlar02.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\bin\Debug\Methodlar02.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\obj\Debug\Methodlar02.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\obj\Debug\Methodlar02.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\obj\Debug\Methodlar02.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\obj\Debug\Methodlar02.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\Methodlar02\Methodlar02\obj\Debug\Methodlar02.pdb
