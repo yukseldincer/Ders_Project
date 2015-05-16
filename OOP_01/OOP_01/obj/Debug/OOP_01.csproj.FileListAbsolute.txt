@@ -1,0 +1,9 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\bin\Debug\OOP_01.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\bin\Debug\OOP_01.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\bin\Debug\OOP_01.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\obj\Debug\OOP_01.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\obj\Debug\OOP_01.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\obj\Debug\OOP_01.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\obj\Debug\OOP_01.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\obj\Debug\OOP_01.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\OOP_01\OOP_01\obj\Debug\OOP_01.pdb

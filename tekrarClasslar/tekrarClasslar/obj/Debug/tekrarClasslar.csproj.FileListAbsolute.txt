@@ -1,0 +1,16 @@
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\bin\Debug\tekrarClasslar.exe.config
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\bin\Debug\tekrarClasslar.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\bin\Debug\tekrarClasslar.pdb
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.csprojResolveAssemblyReference.cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.Form1.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.Properties.Resources.resources
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.csproj.GenerateResource.Cache
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.exe
+c:\users\yuksel.dincer\documents\visual studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.pdb
+\\ALS-YG39402-L02\Users\yuksel.dincer\Documents\Visual Studio 2013\Projects\tekrarClasslar\tekrarClasslar\bin\Debug\tekrarClasslar.exe.config
+\\ALS-YG39402-L02\Users\yuksel.dincer\Documents\Visual Studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.exe
+\\ALS-YG39402-L02\Users\yuksel.dincer\Documents\Visual Studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.pdb
+\\ALS-YG39402-L02\Users\yuksel.dincer\Documents\Visual Studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.csprojResolveAssemblyReference.cache
+\\ALS-YG39402-L02\Users\yuksel.dincer\Documents\Visual Studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.Form1.resources
+\\ALS-YG39402-L02\Users\yuksel.dincer\Documents\Visual Studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.Properties.Resources.resources
+\\ALS-YG39402-L02\Users\yuksel.dincer\Documents\Visual Studio 2013\Projects\tekrarClasslar\tekrarClasslar\obj\Debug\tekrarClasslar.csproj.GenerateResource.Cache
