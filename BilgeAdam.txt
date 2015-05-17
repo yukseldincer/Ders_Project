@@ -1,0 +1,53 @@
+-class(Referance)
+-contructer
+-Access Modifiers(Public,Private,Protected,Internal)
+-Property
+-This Keyword
+-Method
+-Static Members
+-Struct(Value)
+-Inheritance
+-Abstract
+-Polymorphism
+-Events
+-Interface
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+
+*IKisi ---> Interface
+TcKimlikNo
+Cinsiyet
+AdSoyad
+protected DogumTarihi
+KisiBilgileriniGetir();  //Signature
+------------------------
++Personel ---> Abstract
+static PersonelNo(her seferde +1)
+protected ÝþeGiriþTarihi
+GirdigiDersleriGetir(); //Signature
+------------------------
+*
+Ogrenci ---> Class
+OgrenciNo
+Sýnýf
+Yas (get)
+OrtalamaNot (get) ----> vize x 0.3 + final x 0.7 formül eventleri ---->   UstunBasariMi(>80),BasariMi(60< <80),BasarisizMi(<60)
+------------------------
+*+
+Egitmen ---> Class
+Tecrube(Get)
+Yas(get)
+------------------------
+Ders ---> Struct
+Ad
+Egitmen
+Süre
+Ders(ad,egitim,süre)
+------------------------
+Sýnav ---> Class
+Ogrenci
+Egitmen
+Ders
+SýnavTipi(Vize Final) enum
+Not
+static List<Sinav> SýnavListesi
+-------------------------

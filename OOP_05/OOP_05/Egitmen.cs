@@ -33,3 +33,4 @@ namespace OOP_05
         public string CalistigiKurum { get; set; }
     }
 }
+ 
