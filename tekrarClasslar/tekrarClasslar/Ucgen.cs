@@ -22,7 +22,7 @@ namespace tekrarClasslar
         }
         public Point SolAltKonumGetir()
         {
-            Point solKonum = new Point(pozisyonX-(taban / 2), pozisyonY - yukseklik);
+            Point solKonum = new Point(pozisyonX-(taban / 2), pozisyonY + yukseklik);
             return solKonum;
         }
     }
